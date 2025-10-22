@@ -20,7 +20,7 @@ nav {
   background-color: var(--third-color); /* #752E20; */
   color: var(--second-color); /* #FCEEEB; */
 }
-nav#vertical { width: 20vw; }
+
 nav ul {
 
    display: flex;
@@ -31,6 +31,7 @@ nav ul {
   margin: 0;
   
 }
+nav#vertical {  width: 20vw; }
 nav#horizontal ul {
   height: 3.5rem;
 }
