@@ -37,6 +37,7 @@ nav#horizontal ul {
 }
 nav#vertical ul {
   flex-direction: column;
+  display: block;
  
 }
 li {
